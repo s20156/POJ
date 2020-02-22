@@ -35,15 +35,6 @@ public class Main {
 
 
 
-        byte a = 68;
-        short b = 267;
-        int c = -637;
-
-        long i = (long) (50000 + 10 * (a + b + c));
-
-        System.out.println(i);
-
-
 
         short bigShortValue = 56735;
         int myTotal = (myMaxValByte / 2);
@@ -67,17 +58,5 @@ public class Main {
         isReady2 = not.equals(not) ? 1 : 0;
 
         System.out.println(isReady2);
-
-
-
-
-
-        double a = 20;
-        double b = 40;
-        double res = (a+b)*100;
-        boolean wynik = (res % 40.0d) == 0;
-        if (!wynik) {
-            System.out.println("Modulo higher than 0");
-        }
     }
 }
