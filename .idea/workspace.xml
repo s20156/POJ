@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f7ae84-9476-4072-be74-190c8589ef02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="2" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -32,17 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -65,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/pl/pjatk/Main.java" />
         <option value="$PROJECT_DIR$/src/pl/pjatk/Zad1/Zad1.java" />
         <option value="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java" />
+        <option value="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java" />
         <option value="$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java" />
       </list>
     </option>
@@ -104,7 +102,7 @@
               <item name="Z1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Zjazd1" type="462c0819:PsiDirectoryNode" />
-              <item name="Zad2" type="462c0819:PsiDirectoryNode" />
+              <item name="Zad1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,12 +159,12 @@
       <updated>1582365156851</updated>
       <workItem from="1582365167414" duration="2232000" />
       <workItem from="1582368818866" duration="84000" />
-      <workItem from="1582371429848" duration="1144000" />
+      <workItem from="1582371429848" duration="1328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3460000" />
+    <option name="totallyTimeSpent" value="3644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -207,24 +205,24 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="2" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad1/Zad1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/pjatk/Zjazd1/Zad2/Zad2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
